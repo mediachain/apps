@@ -19,14 +19,16 @@ Each folder has a directory structure that may seem unusual. The unique ID of ea
 Lets process the data so it's easier to work with.
 
 ## Processing the data
-We want the data in a Mediachain-friendly format: a single newline-delimited JSON file. We can traverse the folders with a single command. Let's process the `objects` collection first:
+We want the data in a Mediachain-friendly format: a single newline-delimited JSON file. We can traverse the folders with a single command. Let's process the `objects` collection first.
+
+You may need to install [parallel](https://www.gnu.org/software/parallel/), which is available via [brew](http://brewformulas.org/Parallel).
 
 ```
 $ find ./collection/objects -name "*.json" -type f -print | parallel -j 16 "cat {} | ( tr -d '\n'; echo )" > cooperhewitt-objects-nojq.ndjson
 ```
 
 ## Generating a schema
-Since the objects collection is quite large, lets take a sample of it before generating our schema:
+Since the objects collection is quite large, lets take a [sample](https://github.com/alexpreynolds/sample) of it before generating our schema:
 ```
 $ sample --sample-size=10000 --shuffle cooperhewitt-objects.ndjson > cooperhewitt-objects-sample.ndjson
 ```
