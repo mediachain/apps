@@ -1,18 +1,10 @@
 # Museums on Mediachain
-Earlier this year, Mediachain Labs blogged about [how difficult it is](https://blog.mediachain.io/bringing-cultural-metadata-to-life-12cc118b2298#.qkd1u3fjj) to use and publish open data from cultural institutions. Today, they publish their open data through proprietary APIs or as static data dumps on Github. The datasets live in disparate silos, unaware of each other’s existence. 
-
-![](https://cdn-images-1.medium.com/max/1800/1*B3GazCVvNpqulGjjHV3PPA.jpeg)
-**Open data exists in different shapes and lives in fractured, disparate silos.**
-
-Developers hoping to use open data must accept the burden of interacting with multiple incompatible APIs, and this friction inhibits reuse.
-
-Mediachain enables cultural heritage data to live in one place, and to become interoperable and easy to use. 
-
 ![](https://cdn-images-1.medium.com/max/1800/1*ru1HtO5OfLm3HbJQ-LTjrA.jpeg)
-**Open cultural data in Mediachain**
+
+Earlier this year, Mediachain Labs blogged about [how difficult it is](https://blog.mediachain.io/bringing-cultural-metadata-to-life-12cc118b2298#.qkd1u3fjj) to use and publish open data from cultural institutions.
 
 ## Crowdsourcing cultural heritage in Mediachain
-The Mediachain community has initiated a crowdsourcing effort to aggregate all of the open access datasets from cultural institutions across the world in Mediachain.
+The Mediachain community has initiated a crowdsourcing effort to aggregate all of the open access datasets from cultural institutions across the world in Mediachain. Mediachain enables cultural heritage data to live in one place, be interoperable and easy to use.
 
 Follow [this GitHub issue](https://github.com/mediachain/apps/issues/5) for progress and come say hello on [Slack](slack.mediachain.io) to join the community! 
 
