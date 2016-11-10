@@ -6,20 +6,26 @@ Earlier this year, Mediachain Labs blogged about [how difficult it is](https://b
 ## Crowdsourcing cultural heritage in Mediachain
 The Mediachain community has initiated a crowdsourcing effort to aggregate all of the open access datasets from cultural institutions across the world in Mediachain. Mediachain enables cultural heritage data to live in one place, be interoperable and easy to use.
 
-Follow [this GitHub issue](https://github.com/mediachain/apps/issues/5) for progress and come say hello on [Slack](slack.mediachain.io) to join the community! 
+Follow the progress in [this GitHub issue](https://github.com/mediachain/apps/issues/5) and join the community on [Slack](slack.mediachain.io)!
 
 ## Contributing data
 Now that Mediachain 1.0 is live, it is trivial to start adding various datasets into Mediachain! See the [1.0 blog post](https://blog.mediachain.io/bringing-cultural-metadata-to-life-12cc118b2298) and [README](http://github.com/mediachain/concat) for a high level overview.
 
 ### Museum ingestion tutorials
-The Mediachain community is contributing tutorials for datasets from specific institutions to serve as guidelines for others.
+The Mediachain community is contributing tutorials for datasets from specific institutions to serve as guidelines for adding others.
 
-Since data dumps come in various shapes and sizes, the tutorials provide a helpful guide for getting your data into a format that is easily ready to ingest into Mediachain.
+Since data dumps come in various shapes and sizes, the tutorials provide a helpful guide for getting your data into a format that is easily ready to ingest into Mediachain, as well as an overview of using the Mediachain tools.
 
-- [MoMA Tutorial](https://github.com/mediachain/apps/blob/master/museums/moma.md) by @denisnazarov
-* [Cooper-Hewitt Tutorial](https://github.com/mediachain/apps/blob/master/museums/cooper-hewitt.md) by @denisnazarov
+- [Ingesting the MoMA Collection](https://github.com/mediachain/apps/blob/master/museums/moma.md) by @denisnazarov
+* [Ingesting the Cooper-Hewitt Collection](https://github.com/mediachain/apps/blob/master/museums/cooper-hewitt.md) by @denisnazarov
 
 ## Dataset checklist
+This is a living list of candidate datasets as well as contributors. 
+
+See [this issue](https://github.com/mediachain/apps/issues/5) for community discussion on ingesting new datasets.
+
+Please submit a pull request if you have suggestions for more!
+
 - [x] DPLA @vyzo 
 - [x] Rijksmuseum
 - [x] MoMA @denisnazarov
@@ -42,14 +48,12 @@ Since data dumps come in various shapes and sizes, the tutorials provide a helpf
 - [ ] [SMK](http://www.smk.dk/en/use-of-images-and-text/free-download-of-artworks/) (via @DianeDrubay)
 - [ ] [British Library](http://www.openculture.com/2013/12/british-library-puts-1000000-images-into-public-domain.html)
 
-See [this issue](https://github.com/mediachain/apps/issues/5) for community discussion on ingesting new datasets.
-
-Please submit a pull request if you have suggestions for more!
-
-If you help ingest a dataset, your name will be listed as a contributor in the public node's info.
+If you help ingest a dataset, your name will be listed as a contributor above as well as in the Mediachain node's info.
 
 ## Interacting with the data
-First, find the node ID of the museum node.
+First, follow the instructions [here](http://github.com/mediachain/concat) to get your local Mediachain node up and running.
+
+Lets find the peer ID of the museum node.
 ```
 $ mcclient listPeers -i
 QmeiY2eHMwK92Zt6X4kUUC3MsjMmVb2VnGZ17DhnhRPCEQ -- Metadata for CC images from DPLA, 500px, and pexels; operated by Mediachain Labs.
