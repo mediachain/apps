@@ -28,7 +28,7 @@ $ jq -c '.[]' Artists.json > Artists.ndjson
 ```
 
 ## Generating, validating, and publishing schemas
-Follow the instructions to install [schema-guru](https://github.com/mediachain/aleph/blob/master/docs/schema-generation.md), a tool that lets you automatically derive JSON schemas from a set of JSON instances. The guide explains how the naming conventions work and the meaning of all the parameters.
+Follow the instructions to install [schema-guru](https://github.com/mediachain/aleph/blob/master/docs/schema-generation.md), a tool that lets you automatically derive JSON schemas from a set of JSON instances. The [schema generation guide](https://github.com/mediachain/aleph/blob/master/docs/schema-generation.md) explains how the naming conventions work and the meaning of all the parameters.
 
 Generate the schemas:
 ```
