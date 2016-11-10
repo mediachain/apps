@@ -20,13 +20,9 @@ Since data dumps come in various shapes and sizes, the tutorials provide a helpf
 * [Ingesting the Cooper-Hewitt Collection](https://github.com/mediachain/apps/blob/master/museums/cooper-hewitt.md) by @denisnazarov
 
 ## Dataset checklist
-This is a living list of candidate datasets as well as contributors. 
+This is a living list of datasets ready for ingestion, as well as names of community members that contributed them to Mediachain. See [this issue](https://github.com/mediachain/apps/issues/5) for discussion on ingesting new datasets. Please comment and submit a pull request if you have suggestions for more!
 
-See [this issue](https://github.com/mediachain/apps/issues/5) for community discussion on ingesting new datasets.
-
-Please submit a pull request if you have suggestions for more!
-
-- [x] DPLA @vyzo 
+- [x] DPLA @vyzo
 - [x] Rijksmuseum
 - [x] MoMA @denisnazarov
 - [x] Cooper-Hewitt @denisnazarov
