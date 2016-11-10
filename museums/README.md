@@ -9,7 +9,7 @@ The Mediachain community has initiated a crowdsourcing effort to aggregate all o
 Follow the progress in [this GitHub issue](https://github.com/mediachain/apps/issues/5) and join the community on [Slack](slack.mediachain.io)!
 
 ## Contributing data
-Now that Mediachain 1.0 is live, it is trivial to start adding various datasets into Mediachain! See the [1.0 blog post](https://blog.mediachain.io/bringing-cultural-metadata-to-life-12cc118b2298) and [README](http://github.com/mediachain/concat) for a high level overview.
+Now that Mediachain 1.0 is live, it is trivial to start adding various datasets into Mediachain! See the [1.0 blog post](https://blog.mediachain.io/mediachain-v1-0-be2b8fa2153) and [README](http://github.com/mediachain/concat) for a high level overview.
 
 ### Museum ingestion tutorials
 The Mediachain community is contributing tutorials for datasets from specific institutions to serve as guidelines for adding others.
