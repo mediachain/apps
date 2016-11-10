@@ -1,7 +1,7 @@
 # Museums on Mediachain
 ![](https://cdn-images-1.medium.com/max/1800/1*ru1HtO5OfLm3HbJQ-LTjrA.jpeg)
 
-Earlier this year, Mediachain Labs blogged about [how difficult it is](https://blog.mediachain.io/bringing-cultural-metadata-to-life-12cc118b2298#.qkd1u3fjj) to use and publish open data from cultural institutions.
+Earlier this year, Mediachain Labs blogged about [how difficult it is](https://blog.mediachain.io/bringing-cultural-metadata-to-life-12cc118b2298#.qkd1u3fjj) to publish and use open data from cultural institutions.
 
 ## Crowdsourcing cultural heritage in Mediachain
 The Mediachain community has initiated a crowdsourcing effort to aggregate all of the open access datasets from cultural institutions across the world in Mediachain. Mediachain enables cultural heritage data to live in one place, be interoperable and easy to use.
