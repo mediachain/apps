@@ -2,14 +2,14 @@
 Earlier this year, Mediachain Labs blogged about [how difficult it is](https://blog.mediachain.io/bringing-cultural-metadata-to-life-12cc118b2298#.qkd1u3fjj) to use and publish open data from cultural institutions. Today, they publish their open data through proprietary APIs or as static data dumps on Github. The datasets live in disparate silos, unaware of each other’s existence. 
 
 ![](https://cdn-images-1.medium.com/max/1800/1*B3GazCVvNpqulGjjHV3PPA.jpeg)
-*Open data exists in different shapes and lives in fractured, disparate silos.*
+**Open data exists in different shapes and lives in fractured, disparate silos.**
 
 Developers hoping to use open data must accept the burden of interacting with multiple incompatible APIs, and this friction inhibits reuse.
 
 Mediachain enables cultural heritage data to live in one place, and to become interoperable and easy to use. 
 
 ![](https://cdn-images-1.medium.com/max/1800/1*ru1HtO5OfLm3HbJQ-LTjrA.jpeg)
-*Open cultural data in Mediachain*
+**Open cultural data in Mediachain**
 
 ## Crowdsourcing cultural heritage in Mediachain
 The Mediachain community has initiated a crowdsourcing effort to aggregate all of the open access datasets from cultural institutions across the world in Mediachain.
@@ -24,8 +24,8 @@ The Mediachain community is contributing tutorials for datasets from specific in
 
 Since data dumps come in various shapes and sizes, the tutorials provide a helpful guide for getting your data into a format that is easily ready to ingest into Mediachain.
 
-- [MoMA Tutorial](https://github.com/mediachain/apps/blob/master/tutorials/moma.md) by @denisnazarov
-* [Cooper-Hewitt Tutorial](https://github.com/mediachain/apps/blob/dn-cooperhewitt/tutorials/cooper-hewitt.md) by @denisnazarov
+- [MoMA Tutorial](https://github.com/mediachain/apps/blob/master/museums/moma.md) by @denisnazarov
+* [Cooper-Hewitt Tutorial](https://github.com/mediachain/apps/blob/master/museums/cooper-hewitt.md) by @denisnazarov
 
 ## Dataset checklist
 - [x] DPLA @vyzo 
