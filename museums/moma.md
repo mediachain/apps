@@ -216,4 +216,4 @@ See the instructions [here](https://github.com/mediachain/concat#going-public) t
 ## Conclusion
 If you published a new dataset after following this tutorial, reach out to us on [Slack](http://slack.mediachain.io) so we can merge it into the Museum Node with the rest of the museum data!
 
-Open an issue if you have any questions or problems!
+Open an issue if you have any questions or problems, or come for help in #support on [Slack](http://slack.mediachain.io)!
