@@ -24,7 +24,7 @@ We want the data in a Mediachain-friendly format: a single newline-delimited JSO
 You may need to install [parallel](https://www.gnu.org/software/parallel/), which is available via [brew](http://brewformulas.org/Parallel).
 
 ```
-$ find ./collection/objects -name "*.json" -type f -print | parallel -j 16 "cat {} | ( tr -d '\n'; echo )" > cooperhewitt-objects-nojq.ndjson
+$ find ./collection/objects -name "*.json" -type f -print | parallel -j 16 "cat {} | ( tr -d '\n'; echo )" > cooperhewitt-objects.ndjson
 ```
 
 ## Generating a schema
