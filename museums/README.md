@@ -24,7 +24,8 @@ Here is an active list of collections we're adding, with names of community memb
 - [x] Rijksmuseum
 - [x] MoMA @denisnazarov [guide](https://github.com/mediachain/apps/blob/master/museums/moma.md)
 - [x] Cooper-Hewitt @denisnazarov [guide](https://github.com/mediachain/apps/blob/master/museums/cooper-hewitt.md)
-- [ ] Tate @marionzualo
+- [ ] [ACMI](https://github.com/acmilabs/collection)
+- [ ] [Tate](https://github.com/tategallery/collection) @marionzualo
 - [ ] Brooklyn Museum
 - [ ] Getty Research Institute
 - [ ] LACMA
