@@ -5,7 +5,7 @@ Earlier this year, we blogged about [how difficult it is](https://blog.mediachai
 
 This month, we started to crowdsource all of the open access datasets from cultural institutions across the world in Mediachain. Mediachain is the perfect place to unite these collections since it allows cultural heritage data to live in one place, be interoperable and easy to use.
 
-Follow our progress in [this GitHub issue](https://github.com/mediachain/apps/issues/5) and join the community on [Slack](slack.mediachain.io)!
+Follow our progress in [this GitHub issue](https://github.com/mediachain/apps/issues/5) and join the community on [Slack](http://slack.mediachain.io)!
 
 ## Contributing data
 Now that Mediachain 1.0 is live, it is really easy to add your favorite museum's collection to Mediachain! If you haven't already, check out the [concat README](http://github.com/mediachain/concat) for quick overview on how to get started.
