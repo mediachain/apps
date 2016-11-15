@@ -22,12 +22,11 @@ Here is an active list of collections we're adding, with names of community memb
 
 - [x] DPLA @vyzo
 - [x] Rijksmuseum
-- [x] MoMA @denisnazarov [guide](https://github.com/mediachain/apps/blob/master/museums/moma.md)
-- [x] Cooper-Hewitt @denisnazarov [guide](https://github.com/mediachain/apps/blob/master/museums/cooper-hewitt.md)
-- [x] [Tate](https://github.com/tategallery/collection) @marionzualo  [guide](https://github.com/mediachain/apps/blob/master/museums/tate.md)
+- [x] MoMA ([@denisnazarov](https://github.com/denisnazarov)) ([guide](https://github.com/mediachain/apps/blob/master/museums/moma.md))
+- [x] Cooper-Hewitt ([@denisnazarov](https://github.com/denisnazarov)) ([guide](https://github.com/mediachain/apps/blob/master/museums/cooper-hewitt.md))
+- [x] [Tate](https://github.com/tategallery/collection) ([@marionzualo](https://github.com/marionzualo))  ([guide](https://github.com/mediachain/apps/blob/master/museums/tate.md))
+- [x] Brooklyn Museum ([@pyython](https://github.com/pyython))
 - [ ] [ACMI](https://github.com/acmilabs/collection)
-
-- [ ] Brooklyn Museum
 - [ ] Getty Research Institute
 - [ ] LACMA
 - [ ] SFMOMA
