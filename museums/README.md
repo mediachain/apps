@@ -15,6 +15,8 @@ The quickest way to learn how to add a museum's collection if to follow the [Ing
 
 To see how to publish a dataset that is in a different format from MoMA's (scattered across multiple files), check out [Ingesting Cooper-Hewitt](https://github.com/mediachain/apps/blob/master/museums/cooper-hewitt.md).
 
+Or, to see an example of crawling a museum's web API, check out the [Brooklyn Museum](https://github.com/Pyython/brooklyn-museum-mediachain) ingestion guide by [@pyython](https://github.com/Pyython).
+
 If you'd like to share the steps you took to publish your favorite museum's data for others to learn from, feel free to submit a PR!
 
 ## Dataset checklist
@@ -25,7 +27,7 @@ Here is an active list of collections we're adding, with names of community memb
 - [x] MoMA ([@denisnazarov](https://github.com/denisnazarov)) ([guide](https://github.com/mediachain/apps/blob/master/museums/moma.md))
 - [x] Cooper-Hewitt ([@denisnazarov](https://github.com/denisnazarov)) ([guide](https://github.com/mediachain/apps/blob/master/museums/cooper-hewitt.md))
 - [x] [Tate](https://github.com/tategallery/collection) ([@marionzualo](https://github.com/marionzualo))  ([guide](https://github.com/mediachain/apps/blob/master/museums/tate.md))
-- [x] Brooklyn Museum ([@pyython](https://github.com/pyython))
+- [x] Brooklyn Museum ([@pyython](https://github.com/pyython)) ([guide](https://github.com/Pyython/brooklyn-museum-mediachain))
 - [ ] [ACMI](https://github.com/acmilabs/collection)
 - [ ] Getty Research Institute
 - [ ] LACMA
