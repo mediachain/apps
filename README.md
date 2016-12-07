@@ -4,6 +4,8 @@ Discussion of apps being built on top of Mediachain.
 
 See [issues](https://github.com/mediachain/apps/issues) for discussions!
 
+For system-wide Mediachain documentation see https://mediachain.github.io/mediachain-docs.
+
 ## Apps
 - [Museums on Mediachain](/museums)
 - [Attribution Engine](http://images.mediachain.io)
